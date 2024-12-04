@@ -1,0 +1,4 @@
+// Validating benchmarks:
+// Benchmark Method.EliminateProps: .NET 8.0(Runtime=.NET 8.0)
+//    * BenchmarkDotNet requires dotnet SDK to be installed or path to local dotnet cli provided in explicit way using `--cli` argument, benchmark 'Method.EliminateProps: .NET 8.0(Runtime=.NET 8.0)' will not be executed
+
