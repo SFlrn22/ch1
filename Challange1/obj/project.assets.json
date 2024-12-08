@@ -1777,11 +1777,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/flowie/Projects/Challange1/Challange1.csproj",
+      "projectUniqueName": "/home/flowie/Projects/ch1/Challange1/Challange1.csproj",
       "projectName": "Challange1",
-      "projectPath": "/home/flowie/Projects/Challange1/Challange1.csproj",
+      "projectPath": "/home/flowie/Projects/ch1/Challange1/Challange1.csproj",
       "packagesPath": "/home/flowie/.nuget/packages/",
-      "outputPath": "/home/flowie/Projects/Challange1/obj/",
+      "outputPath": "/home/flowie/Projects/ch1/Challange1/obj/",
       "projectStyle": "PackageReference",
       "UsingMicrosoftNETSdk": false,
       "configFilePaths": [

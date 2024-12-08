@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QdRikGQCWm8=",
+  "dgSpecHash": "sglEwX+jbQ8=",
   "success": true,
-  "projectFilePath": "/home/flowie/Projects/Challange1/Challange1.csproj",
+  "projectFilePath": "/home/flowie/Projects/ch1/Challange1/Challange1.csproj",
   "expectedPackageFiles": [
     "/home/flowie/.nuget/packages/benchmarkdotnet/0.14.0/benchmarkdotnet.0.14.0.nupkg.sha512",
     "/home/flowie/.nuget/packages/benchmarkdotnet.annotations/0.14.0/benchmarkdotnet.annotations.0.14.0.nupkg.sha512",
